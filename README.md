@@ -5,6 +5,7 @@ Olá! Eu sou a Jéssica 👋
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jessicabarros6091)
 
 Tecnologia que uso:
+
 [![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]
 
 <!--
