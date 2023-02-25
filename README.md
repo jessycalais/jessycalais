@@ -4,10 +4,6 @@ Olá! Eu sou a Jéssica 👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/jessicalcbarros)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@jessicabarros6091)
 
-Tecnologia que uso:
-
-[[Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]
-
 <!--
 **jessycalais/jessycalais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
