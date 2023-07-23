@@ -1,6 +1,6 @@
 Olá! Eu sou a Jéssica 👋
 
-Atualmente estou cursando a **Certificação em Análise de Dados do Google pela Coursera**.
+Atualmente estou cursando a **Certificação em Análise de Dados do Google pela Coursera**. \
 A Certificação do Google trabalha com as linguagens R e SQL.
 
 Também estou aprofundando meus conhecimentos em Python, Excel, PowerBI e Estatística.
