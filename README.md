@@ -1,9 +1,7 @@
 Olá! Eu sou a Jéssica 👋
 
-Atualmente estou cursando a **Certificação em Análise de Dados do Google pela Coursera**. \
-A Certificação do Google trabalha com as linguagens R e SQL.
-
-Também estou aprofundando meus conhecimentos em Python, Excel, PowerBI e Estatística.
+Atualmente sou tutora na graduação do SENAC-EAD e sou responsável pela Equipe de Inovação cujo foco é *automatizar* e *melhorar processos*. Além disso, faço parte da equipe que *analisa dados* para acompanhamento dos gestores (Equipe de Monitoramento).  
+Possuo o **Certificado Profissional em Análise de Dados do Google** pela Coursera.
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jessyca_lais/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jessicalcbarros/)
