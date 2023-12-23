@@ -9,8 +9,7 @@ Possuo o **Certificado Profissional em Análise de Dados do Google** pela Course
 
 ---
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessycalais&layout=compact&langs_count=7&theme=transparent"/>
+<a href="https://github.com/jessycalais">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jessycalais&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
 
