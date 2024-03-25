@@ -1,16 +1,29 @@
 Olá! Eu sou a Jéssica 👋
 
-Atualmente sou tutora na graduação do SENAC-EAD e sou responsável pela Equipe de Inovação cujo foco é *automatizar* e *melhorar processos*. Além disso, faço parte da equipe que *analisa dados* para acompanhamento dos gestores (Equipe de Monitoramento).  
-Possuo o **Certificado Profissional em Análise de Dados do Google** pela Coursera.  
+
+Sou Mestre em Matemática pela USP na área de Análise Complexa, Licenciada em Matemática também pela USP e Cientista de Dados em formação.  
+
+Possuo o Certificado Profissional em Análise de Dados do Google (R, SQL, planilhas, tratamento, organização, análise e visualização de dados).  
+
+Além disso, sou tutora de matemática no Centro Universitário SENAC e, desde mar/2024 faço parte da “Equipe Estratégica” atuando como Analista de Dados com foco em coletar, tratar e analisar dados para a tutoria.  
+
+Veja meu portólio em: **[clique aqui](https://jessycalais.quarto.pub/meu-portfolio-de-dados/)**
 
 **Tecnologias:**  
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" width="50" height="50"/>
+          
+                    
 
 ---
 <div>
 <a href="https://github.com/jessycalais">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jessycalais&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  
 </div>
 
 ---
