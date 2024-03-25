@@ -7,7 +7,7 @@ Possuo o Certificado Profissional em Análise de Dados do Google (R, SQL, planil
 
 Além disso, sou tutora de matemática no Centro Universitário SENAC e, desde mar/2024 faço parte da “Equipe Estratégica” atuando como Analista de Dados com foco em coletar, tratar e analisar dados para a tutoria.  
 
-Veja meu portólio em: **[clique aqui](https://jessycalais.quarto.pub/meu-portfolio-de-dados/)**
+> Veja meu portólio em: **[clique aqui](https://jessycalais.quarto.pub/meu-portfolio-de-dados/)**
 
 **Tecnologias:**  
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50" height="50"/>
